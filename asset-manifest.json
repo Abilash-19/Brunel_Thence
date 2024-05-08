@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Brunel_Thence/static/css/main.56bb111e.css",
+    "main.js": "/Brunel_Thence/static/js/main.d355cc4d.js",
+    "index.html": "/Brunel_Thence/index.html",
+    "main.56bb111e.css.map": "/Brunel_Thence/static/css/main.56bb111e.css.map",
+    "main.d355cc4d.js.map": "/Brunel_Thence/static/js/main.d355cc4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56bb111e.css",
+    "static/js/main.d355cc4d.js"
+  ]
+}
