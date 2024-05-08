@@ -25,7 +25,7 @@ export default function Success() {
   return (
     <>
       <RegisterationNav />
-      <section className="h-screen w-screen flex flex-col justify-center items-center gap-[20px]">
+      <section className="h-screen w-screen  mt-5 flex flex-col justify-center items-center gap-[20px]">
         <svg
           width="68"
           height="68"
