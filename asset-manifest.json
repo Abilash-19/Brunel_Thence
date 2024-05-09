@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Brunel_Thence/static/css/main.56bb111e.css",
-    "main.js": "/Brunel_Thence/static/js/main.b8b20c13.js",
+    "main.css": "/Brunel_Thence/static/css/main.aa57872c.css",
+    "main.js": "/Brunel_Thence/static/js/main.4fce5023.js",
     "index.html": "/Brunel_Thence/index.html",
-    "main.56bb111e.css.map": "/Brunel_Thence/static/css/main.56bb111e.css.map",
-    "main.b8b20c13.js.map": "/Brunel_Thence/static/js/main.b8b20c13.js.map"
+    "main.aa57872c.css.map": "/Brunel_Thence/static/css/main.aa57872c.css.map",
+    "main.4fce5023.js.map": "/Brunel_Thence/static/js/main.4fce5023.js.map"
   },
   "entrypoints": [
-    "static/css/main.56bb111e.css",
-    "static/js/main.b8b20c13.js"
+    "static/css/main.aa57872c.css",
+    "static/js/main.4fce5023.js"
   ]
 }
